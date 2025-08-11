@@ -11,5 +11,5 @@ I'm a 13-year-old full-stack developer passionate about AI, space tech, and buil
 
 ## Contact
 Email: greatheboss989@gmail.com
-LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/great-uvomata-411aab327/))  
-GitHub: [github.com/yourusername](https://github.com/Gr8-blip)
+LinkedIn: [LinkedIN](https://linkedin.com/in/great-uvomata-411aab327/))  
+GitHub: [Github](https://github.com/Gr8-blip)
